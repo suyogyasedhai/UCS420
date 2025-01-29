@@ -1,0 +1,11 @@
+ID,Name,Department,Age,Salary,Experience,Joining_Date,Gender,Bonus,Rating
+1,Employee1,Dept5,46,45368,7,2021-12-24,Female,3995,5.1
+2,Employee2,Dept4,39,40021,6,2013-06-26,Male,3881,2.2
+3,Employee3,Dept1,40,55171,5,2015-07-23,Female,3562,2.6
+4,Employee4,Dept2,41,53124,5,201-09-21,Female,3444,1.5
+5,Employee5,Dept1,25,54201,9,206-09-05,Female,3420,5.0
+6,Employee6,Dept1,36,41825,4,2018-02-14,Male,3681,1.9
+7,Employee7,Dept5,47,51993,9,2015-06-18,Male,3609,3.4
+8,Employee8,Dept3,31,52840,4,209-04-04,Male,3747,4.3
+9,Employee9,Dept3,40,49861,5,2010-02-10,Male,3601,5.4
+10,Employee10,Dept3,29,58087,7,203-06-22,Male,3713,1.4
